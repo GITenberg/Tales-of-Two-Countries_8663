@@ -1,0 +1,47 @@
+_repo: Tales-of-Two-Countries_8663
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+  translator:
+    agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+creator:
+  author:
+    agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kjelland, Alexander Lange
+    - Kielland, Aleksander L.
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Kielland
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kielland, Alexander Lange, 1849-1906 -- Translations into English'
+- !lcsh 'Norway -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Pharaoh -- The parsonage -- The peat moor -- "Hope's clad in April
+  green" -- At the fair -- Two friends -- A good conscience -- Romance and reality
+  -- Withered leaves -- The battle of Waterloo.
+title: Tales of Two Countries
+url: http://www.gutenberg.org/ebooks/8663
